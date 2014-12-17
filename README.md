@@ -1,4 +1,3 @@
-demo-environments
-=================
+Puppetfiles for R10k Demo. One branch per Puppet environment
 
-This is the Environments folder for demonstrating R10K
+Questions? psk@puppetlabs.com
