@@ -1,0 +1,18 @@
+---
+classes:
+ - 'profile::base'
+
+ntp::servers:
+  - 0.us.pool.ntp.org
+  - 1.us.pool.ntp.org
+
+world: >
+    ENC[PKCS7,MIIBeQYJKoZIhvcNAQcDoIIBajCCAWYCAQAxggEhMIIBHQIBADAFMAACAQEw
+    DQYJKoZIhvcNAQEBBQAEggEAeU6y+/1OWXQ4PVKdxSdfeyQUlBdR9erRpIOm
+    NzLU2KEpzpikMJU3ZOqnTamZ9oYL3jgVLsLeSHUuFCbsQ0sZOkDEKZUQnuGm
+    YYmq5kl8GGF6Tw+JiWFH8yoL0XCebliMaqg307Oqht2BF3siddICOxdP3gMG
+    8ksiPEVi6X42GmSItyGEOJvCe5nBo8IEjmoH6Wqwvrs0pa55oiUUHoWmy76c
+    peglwFG1tNoZ8z0H6c0DOSLrN456pc+LW4ThEFhnVm9f8olUQmK7QojlBuqe
+    8x4Wz45LSe7s8YUfMVRKBF9VtJuk/ZVJaJ65+CxiOFiean4LbDy1nNXiIsda
+    FpV3PTA8BgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBD0uSxjFnQNLspKswKN
+    2CZHgBAeioNgNYj8J53jEWKAle2a]
