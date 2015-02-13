@@ -1,0 +1,4 @@
+---
+profiles::vhost1::vhost_fqdn: www.brett.com
+profiles::vhost1::vhost_docroot: /var/www/brett
+profiles::vhost1::vhost_port: 80
