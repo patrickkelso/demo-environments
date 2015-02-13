@@ -16,3 +16,13 @@ profiles::vhost4::vhost_port: 80
 profiles::vhost5::vhost_fqdn: www.scott.com
 profiles::vhost5::vhost_docroot: /var/www/scott
 profiles::vhost5::vhost_port: 80
+profiles::mysqlserver::rootpassword: >
+    ENC[PKCS7,MIIBeQYJKoZIhvcNAQcDoIIBajCCAWYCAQAxggEhMIIBHQIBADAFMAACAQEw
+    DQYJKoZIhvcNAQEBBQAEggEAMU70OXgGPRTbFzyr99LPmRYL7NIHp83quKu8
+    NlSslvKUKlDK+yTBDmbXQrzTzoMSZpmXMhnp5xUhqKCRb77HS4n3Yv+W4ePl
+    XjHQcjoy3VhDrRUzeMmC22Bv5RR0nqgDS3Mao77z3ssNvv4R3VYt/HvcPtOU
+    AYqZIG9UMBOfDi1lD4zq8R5QzQd5j0EmECYt8RZeEB/iJ+tymKs1Kz8v3shz
+    vLicSIH3u6Ks7WECeT+IYHrB3Oai/cs/TGqeH5wkRe40xbgFu924OwlH7ApA
+    ruCknSkdWiEBmYK2MHbZYHhtDTVJ5T/2yEsHh7Zpyun44Q4/NoOPlrU7R8bX
+    Xp3XJjA8BgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBChE2gMYAibG7CItdZn
+    HexKgBCqVjt+VJyJMhGr6Jqv8kcY]
