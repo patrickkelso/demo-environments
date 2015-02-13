@@ -15,3 +15,7 @@ mod 'git-version',
 mod 'profiles',
   :git => 'https://github.com/patrickkelso/profiles_homework.git',
   :ref => 'development'
+
+mod 'roles',
+  :git => 'https://github.com/patrickkelso/profiles_roles.git',
+  :ref => 'development'
