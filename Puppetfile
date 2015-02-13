@@ -13,5 +13,5 @@ mod 'git-version',
   :git => 'https://github.com/patrickkelso/git-version.git'
 
 mod 'profiles',
-  :git => 'https://github.com/patrickkelso/profiles_homework.git/
+  :git => 'https://github.com/patrickkelso/profiles_homework.git'
   :ref => 'development'
