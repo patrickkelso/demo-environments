@@ -10,5 +10,8 @@ mod 'puppetlabs/apache'
 mod 'puppetlabs/mysql'
 
 mod 'git-version',
-  :git => 'git@github.com:patrickkelso/git-version.git'
+  :git => 'https://github.com/patrickkelso/git-version.git'
 
+mod 'profiles',
+  :git => 'https://github.com/patrickkelso/profiles_homework.git/
+  :ref => 'development'
