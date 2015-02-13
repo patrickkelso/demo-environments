@@ -17,5 +17,5 @@ mod 'profiles',
   :ref => 'development'
 
 mod 'roles',
-  :git => 'https://github.com/patrickkelso/profiles_roles.git',
+  :git => 'https://github.com/patrickkelso/homework_roles.git',
   :ref => 'development'
