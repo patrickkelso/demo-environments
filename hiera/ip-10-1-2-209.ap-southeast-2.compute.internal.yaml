@@ -1,4 +1,18 @@
 ---
+profiles::apache::www_user: apache
+profiles::apache::www_group: apache
 profiles::vhost1::vhost_fqdn: www.brett.com
 profiles::vhost1::vhost_docroot: /var/www/brett
 profiles::vhost1::vhost_port: 80
+profiles::vhost2::vhost_fqdn: www.rob.com
+profiles::vhost2::vhost_docroot: /var/www/rob
+profiles::vhost2::vhost_port: 80
+profiles::vhost3::vhost_fqdn: www.geoff.com
+profiles::vhost3::vhost_docroot: /var/www/geoff
+profiles::vhost3::vhost_port: 80
+profiles::vhost4::vhost_fqdn: www.joe.com
+profiles::vhost4::vhost_docroot: /var/www/joe
+profiles::vhost4::vhost_port: 80
+profiles::vhost5::vhost_fqdn: www.scott.com
+profiles::vhost5::vhost_docroot: /var/www/scott
+profiles::vhost5::vhost_port: 80
