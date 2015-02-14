@@ -1,18 +1,6 @@
 ---
 classes:
- - 'profile::base'
 
 ntp::servers:
-  - 0.us.pool.ntp.org
-  - 1.us.pool.ntp.org
-
-world: >
-    ENC[PKCS7,MIIBiQYJKoZIhvcNAQcDoIIBejCCAXYCAQAxggEhMIIBHQIBADAFMAACAQEw
-    DQYJKoZIhvcNAQEBBQAEggEA2I7zRJtUQocGdZkVM489nEtUx8rjXHRMMC9M
-    co8GvAJOE38zxAcYdLCR7CB6DUiIQDGI/VCWHj6UHoa1KI0YkBu1fQ1Rqs2e
-    Gciozjy9h/2hFrxCw0L1UTLuq32vMc5Dsns/BqubchIPH+pb2JFlH86/E0cX
-    fUu47OGtqZb6c1gYYcD8UIBplWA9NQAoItEtEka/EVw3k82jQvdU6BhCEY7s
-    3Ty0K3CfOi196aJDBO5RCFVUYLwzvlV0REPlCjyAdQi2s939BpH2pdUzFwP3
-    YzrnlyOC1iXQhK7w5kdia6Vph2pdsFi9YpW2ylLm1fbUb7ssQYik5aSvCkjx
-    zev/HzBMBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBD1IlHD5PxtDVCqLUT6
-    62PSgCAbk1qLbY2MaJj1fsjvhjZd/xeKLWQxG4z7xAzjq+Ckdw==]
+  - 0.au.pool.ntp.org
+  - 1.au.pool.ntp.org
