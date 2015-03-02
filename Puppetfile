@@ -13,10 +13,10 @@ mod 'emccode/scaleio'
 #mod 'git-version',
 #  :git => 'https://github.com/patrickkelso/git-version.git'
 
-mod 'profiles',
-  :git => 'https://github.com/patrickkelso/profiles_homework.git',
-  :ref => 'scaleio'
-
-mod 'roles',
-  :git => 'https://github.com/patrickkelso/homework_roles.git',
-  :ref => 'scaleio'
+#mod 'profiles',
+#  :git => 'https://github.com/patrickkelso/profiles_homework.git',
+#  :ref => 'scaleio'
+#
+#mod 'roles',
+#  :git => 'https://github.com/patrickkelso/homework_roles.git',
+#  :ref => 'scaleio'
