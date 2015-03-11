@@ -13,6 +13,7 @@ mod 'mkrakowitzer/stash'
 mod 'jfryman/nginx'
 mod 'mkrakowitzer/deploy'
 mod 'yguenane/repoforge'
+mod 'puppetlabs/apache'
 
 #mod 'git-version',
 #  :git => 'https://github.com/patrickkelso/git-version.git'
