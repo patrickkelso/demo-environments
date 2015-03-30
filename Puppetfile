@@ -7,12 +7,6 @@ mod 'puppetlabs/firewall'
 mod 'puppetlabs/java'
 mod 'puppetlabs/postgresql'
 mod 'mukaibot/bamboo'
-mod 'nanliu/staging'
-mod 'mkrakowitzer/jira'
-mod 'mkrakowitzer/stash'
-mod 'jfryman/nginx'
-mod 'mkrakowitzer/deploy'
-mod 'yguenane/repoforge'
 mod 'puppetlabs/apache'
 
 #mod 'git-version',
