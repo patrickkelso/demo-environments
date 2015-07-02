@@ -7,7 +7,6 @@ mod 'saz/ssh', '2.4.0'
 mod 'puppetlabs/stdlib', '4.2.2'
 mod 'puppetlabs/concat', '1.1.0'
 mod 'puppetlabs/apache'
-mod 'puppetlabs/mysql'
 
 mod 'git-version',
   :git => 'https://github.com/patrickkelso/git-version.git'
