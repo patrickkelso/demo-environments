@@ -14,7 +14,7 @@ mod 'git-version',
 
 mod 'profiles',
   :git => 'https://github.com/patrickkelso/profiles_homework.git',
-  :ref => 'development'
+  :ref => 'shinynewfeature'
 
 mod 'roles',
   :git => 'https://github.com/patrickkelso/homework_roles.git',
