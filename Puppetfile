@@ -1,21 +1,14 @@
 forge 'forge.puppetlabs.com'
 
 # Forge Modules
-mod 'puppetlabs/ntp', '3.0.3'
-mod 'saz/sudo', '3.0.9'
-mod 'saz/ssh', '2.4.0'
-mod 'puppetlabs/stdlib', '4.2.2'
-mod 'puppetlabs/concat', '1.1.0'
-mod 'puppetlabs/reboot', '1.0.0'
-mod 'puppetlabs/mysql'
+mod 'puppetlabs/stdlib', '4.6.0'
+mod 'puppetlabs/concat', '1.2.3'
+mod 'puppetlabs/pe_gem', '0.1.1'
 
-mod 'git-version',
-  :git => 'https://github.com/patrickkelso/git-version.git'
+mod 'f5',
+  :git => 'git@git.patrickkelso.com.au:psk/f5-demo.git'
+  :ref => 'v1.2.0'
 
 mod 'profiles',
   :git => 'https://github.com/patrickkelso/profiles_homework.git',
-  :ref => 'development'
-
-mod 'roles',
-  :git => 'https://github.com/patrickkelso/homework_roles.git',
-  :ref => 'development'
+  :ref => 'f5'
