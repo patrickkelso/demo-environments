@@ -6,7 +6,7 @@ mod 'puppetlabs/concat', '1.2.3'
 mod 'puppetlabs/pe_gem', '0.1.1'
 
 mod 'f5',
-  :git => 'git@git.patrickkelso.com.au:psk/f5-demo.git'
+  :git => 'git@git.patrickkelso.com.au:psk/f5-demo.git',
   :tag => 'v1.2.0'
 
 mod 'profiles',
