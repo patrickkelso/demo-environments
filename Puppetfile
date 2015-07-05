@@ -7,7 +7,7 @@ mod 'puppetlabs/pe_gem', '0.1.1'
 
 mod 'f5',
   :git => 'git@git.patrickkelso.com.au:/psk/f5-demo.git',
-  :tag => 'v1.2.0'
+  :tag => '1.2.0'
 
 mod 'profiles',
   :git => 'https://github.com/patrickkelso/profiles_homework.git',
