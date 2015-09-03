@@ -9,9 +9,6 @@ mod 'puppetlabs/concat', '1.1.0'
 mod 'puppetlabs/reboot', '1.0.0'
 mod 'puppetlabs/mysql'
 
-mod 'git-version',
-  :git => 'https://github.com/patrickkelso/git-version.git'
-
 mod 'profiles',
   :git => 'https://github.com/patrickkelso/profiles_homework.git',
   :ref => 'development'
